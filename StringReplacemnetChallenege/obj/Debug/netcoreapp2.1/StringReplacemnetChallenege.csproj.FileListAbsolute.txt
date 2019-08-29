@@ -1,0 +1,11 @@
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\bin\Debug\netcoreapp2.1\StringReplacemnetChallenege.deps.json
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\bin\Debug\netcoreapp2.1\StringReplacemnetChallenege.runtimeconfig.json
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\bin\Debug\netcoreapp2.1\StringReplacemnetChallenege.runtimeconfig.dev.json
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\bin\Debug\netcoreapp2.1\StringReplacemnetChallenege.dll
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\bin\Debug\netcoreapp2.1\StringReplacemnetChallenege.pdb
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\obj\Debug\netcoreapp2.1\StringReplacemnetChallenege.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\obj\Debug\netcoreapp2.1\StringReplacemnetChallenege.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\obj\Debug\netcoreapp2.1\StringReplacemnetChallenege.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\obj\Debug\netcoreapp2.1\StringReplacemnetChallenege.AssemblyInfo.cs
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\obj\Debug\netcoreapp2.1\StringReplacemnetChallenege.dll
+C:\Users\Jake\source\repos\StringReplacemnetChallenege\StringReplacemnetChallenege\obj\Debug\netcoreapp2.1\StringReplacemnetChallenege.pdb
